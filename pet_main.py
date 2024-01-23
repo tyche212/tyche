@@ -7,6 +7,6 @@ def main():
  # Display the information
     print(f'Pet1: [Name: {my_pet1.name} Type: {my_pet1.animal_type} Age:{my_pet1.age}]')
     print(f'Pet2: [Name: {my_pet2.name} Type: {my_pet2.animal_type} Age:{my_pet2.age}]')
-    print(f'Pet3: [Name: {my_pet3.name} Type: {my_pet3.animal_type} Age:{my_pet3.age}]'+13)
+    print(f'Pet3: [Name: {my_pet3.name} Type: {my_pet3.animal_type} Age:{my_pet3.age}]',13)
 # Call the main function
 main()
